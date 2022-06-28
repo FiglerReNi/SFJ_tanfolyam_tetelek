@@ -1,0 +1,15 @@
+Link github: https://github.com/FiglerReNi/SFJ_tanfolyam_tetelek
+
+Fogalma: Alapvető algoritmusok, típusfeadatok megoldásai, amik bizonyítottan jók, hatékonyak
+
+Tételek:
+	Összegzés tétele - tömb elemeinek az értékét adja össze
+	Megszámolás tétele - hány feltételnek megfelelő elem van egy tömbben
+	Eldöntés tétele - egy adott tömben megtalálható-e egy adott szám vagy sem
+	Kiválasztás tétele - hányadik eleme a tömbnek a keresett elem
+	Keresés tétele - megnézzük hogy benne van-e egyáltalán a keresett elem a tömbben, és ha igen hányadik elem
+	Kiválogatás tétele - kiválogatunk egy új tömbe bizonyos elemeket a régiből
+	Szétválogatás tétele - egy adott tömb elemeit két új tömbbe válogatjuk szét bizonyos feltételek mellett
+	Minimum és Maximum kiválasztás tétele - legkisebb és legnagyobb elemek megtalálása
+	Metszet tétele - Két tömbben mik a közös elemek
+Unio tétele - MInden érték benne lesz ami a másik két tömben egyszer is előfordul, de az azonos értékek csak egyszer
