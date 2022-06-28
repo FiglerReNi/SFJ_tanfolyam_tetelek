@@ -1,5 +1,3 @@
-Link github: https://github.com/FiglerReNi/SFJ_tanfolyam_tetelek
-
 Fogalma: Alapvető algoritmusok, típusfeadatok megoldásai, amik bizonyítottan jók, hatékonyak
 
 Tételek:
@@ -12,4 +10,4 @@ Tételek:
 	Szétválogatás tétele - egy adott tömb elemeit két új tömbbe válogatjuk szét bizonyos feltételek mellett
 	Minimum és Maximum kiválasztás tétele - legkisebb és legnagyobb elemek megtalálása
 	Metszet tétele - Két tömbben mik a közös elemek
-Unio tétele - MInden érték benne lesz ami a másik két tömben egyszer is előfordul, de az azonos értékek csak egyszer
+  Unio tétele - MInden érték benne lesz ami a másik két tömben egyszer is előfordul, de az azonos értékek csak egyszer
